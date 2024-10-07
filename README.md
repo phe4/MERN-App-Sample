@@ -1,5 +1,3 @@
-# ManagementChuwa
-
 Product management app
 
 ### 1. Install dependencies
